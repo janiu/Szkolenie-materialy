@@ -1,0 +1,6 @@
+com/org/rjankowski/kafka/frauddetector/KafkaListener.class
+com/org/rjankowski/kafka/frauddetector/FraudDetectorApplication.class
+com/org/rjankowski/kafka/frauddetector/CreditCardTrnDeserializer.class
+com/org/rjankowski/kafka/frauddetector/MyAssignor.class
+com/org/rjankowski/kafka/frauddetector/Config.class
+com/org/rjankowski/kafka/frauddetector/CreditCardTrn.class
