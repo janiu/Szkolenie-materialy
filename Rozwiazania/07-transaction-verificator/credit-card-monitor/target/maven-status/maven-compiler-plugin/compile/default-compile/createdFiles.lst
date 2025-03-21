@@ -1,0 +1,7 @@
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardTrnChangeLog.class
+com\org\rjankowski\kafka\creditcardmonitor\Config.class
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardTrnSerializer.class
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardTrn.class
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardMonitorApplication.class
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardTrnResource.class
+com\org\rjankowski\kafka\creditcardmonitor\CreditCardTrnChangeLog$CreditCardTrnChangeLogBuilder.class
